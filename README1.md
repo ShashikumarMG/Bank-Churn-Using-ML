@@ -1,3 +1,3 @@
 # Bank-Churn-Using-ML
-Django 2.1
+Django 3.0
 
